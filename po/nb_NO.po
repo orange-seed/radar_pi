@@ -1,0 +1,1047 @@
+#: src\RadarInfo.cpp:230
+msgid ""
+msgstr ""
+"Project-Id-Version: opencpn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-05 11:37+0200\n"
+"PO-Revision-Date: 2021-11-25 16:43\n"
+"Last-Translator: \n"
+"Language-Team: Norwegian Bokmal\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: opencpn\n"
+"X-Crowdin-Project-ID: 49843\n"
+"X-Crowdin-Language: nb\n"
+"X-Crowdin-File: /plugins/radar_pi/po/radar_pi.pot\n"
+"X-Crowdin-File-ID: 272\n"
+
+#: src\ControlsDialog.cpp:218 src\ControlsDialog.cpp:644 src\RadarCanvas.cpp:205
+#: src\RadarInfo.cpp:1491 include\SoftwareControlSet.h:45
+#: include\SoftwareControlSet.h:136 include\SoftwareControlSet.h:140
+#: include\navico\NavicoControlSet.h:56 include\navico\NavicoControlSet.h:60
+#: include\navico\NavicoControlSet.h:76 src\raymarine\RME120Receive.cpp:531
+msgid "Off"
+msgstr "Av"
+
+#: src\ControlsDialog.cpp:248 src\ControlsDialog.cpp:252
+#: src\ControlsDialog.cpp:640 src\RadarCanvas.cpp:220 src\RadarInfo.cpp:1205
+#: include\SoftwareControlSet.h:41
+msgid "Auto"
+msgstr "Auto"
+
+#: src\ControlsDialog.cpp:351
+msgid "Arc"
+msgstr "Bue"
+
+#: src\ControlsDialog.cpp:352
+msgid "Circle"
+msgstr "Sirkel"
+
+#: src\ControlsDialog.cpp:432
+msgid "Guard Zone 1 Green"
+msgstr "Vaktsone 1 Grønn"
+
+#: src\ControlsDialog.cpp:435
+msgid "Guard Zone 2 Blue"
+msgstr "Vaktsone 2 Blå"
+
+#: src\ControlsDialog.cpp:482 src\ControlsDialog.cpp:492
+#: include\GuardZoneBogey.h:53
+msgid "Alarm"
+msgstr "Alarm"
+
+#: src\ControlsDialog.cpp:485 src\ControlsDialog.cpp:495
+msgid "Arpa"
+msgstr "Arpa"
+
+#: src\ControlsDialog.cpp:488 src\ControlsDialog.cpp:498
+msgid " Off"
+msgstr " Av"
+
+#: src\ControlsDialog.cpp:501 src\ControlsDialog.cpp:504
+msgid "Guard zone"
+msgstr "Vaktsone"
+
+#: src\ControlsDialog.cpp:533
+msgid "Back"
+msgstr "Tilbake"
+
+#: src\ControlsDialog.cpp:551
+msgid "Antenna starboard of GPS"
+msgstr "Antenne styrbord for GPS"
+
+#: src\ControlsDialog.cpp:552 src\ControlsDialog.cpp:814
+msgid "Local interference rej."
+msgstr "Lokal forstyrrelses kansellering"
+
+#: src\ControlsDialog.cpp:553
+msgid "Off/Relative/True trails"
+msgstr "Av/Relativ/Sanne slepestrek"
+
+#: src\ControlsDialog.cpp:554 src\ControlsDialog.cpp:1005
+msgid "Overlay transparency"
+msgstr "Gjennomsiktighet for overlegg"
+
+#: src\ControlsDialog.cpp:555 src\ControlsDialog.cpp:1104
+msgid "Timed Transmit"
+msgstr "Tidsbestemt sending"
+
+#: src\ControlsDialog.cpp:621
+msgid "Value"
+msgstr "Verdi"
+
+#: src\ControlsDialog.cpp:662
+msgid "Noise rejection"
+msgstr "Støyfilter"
+
+#: src\ControlsDialog.cpp:668
+msgid "Target expansion"
+msgstr "Målforsterkning"
+
+#: src\ControlsDialog.cpp:675
+msgid "STC"
+msgstr "STC"
+
+#: src\ControlsDialog.cpp:681
+msgid "Fine tune"
+msgstr "Fin tuning"
+
+#: src\ControlsDialog.cpp:688
+msgid "Coarse tune"
+msgstr "Grov tuning"
+
+#: src\ControlsDialog.cpp:694
+msgid "STC curve"
+msgstr "STC-kurve"
+
+#: src\ControlsDialog.cpp:701
+msgid "Interference rejection"
+msgstr "IR filter"
+
+#: src\ControlsDialog.cpp:708
+msgid "Target separation"
+msgstr "Ekko separasjon"
+
+#: src\ControlsDialog.cpp:716
+msgid "Scan speed"
+msgstr "Skanner hastighet"
+
+#: src\ControlsDialog.cpp:723
+msgid "Target boost"
+msgstr "Ekkoforsterkning"
+
+#: src\ControlsDialog.cpp:728
+msgid "Installation"
+msgstr "Installasjon"
+
+#: src\ControlsDialog.cpp:732
+msgid "Preferences"
+msgstr "Alternativer"
+
+#: src\ControlsDialog.cpp:749
+msgid "Bearing alignment"
+msgstr "Kursjustering"
+
+#: src\ControlsDialog.cpp:756
+msgid "Range adjustment"
+msgstr "Avstandsjustering"
+
+#: src\ControlsDialog.cpp:763
+msgid "Display timing"
+msgstr "Display timing"
+
+#: src\ControlsDialog.cpp:769
+msgid "Main bang suppression"
+msgstr "Main bang undertrykking"
+
+#: src\ControlsDialog.cpp:776
+msgid "No transmit start"
+msgstr "Ingen sendestart"
+
+#: src\ControlsDialog.cpp:784
+msgid "No transmit end"
+msgstr "Ingen sendestopp"
+
+#: src\ControlsDialog.cpp:790
+msgid "Antenna height"
+msgstr "Antennehøyde"
+
+#: src\ControlsDialog.cpp:791 src\ControlsDialog.cpp:799
+#: src\ControlsDialog.cpp:807
+msgid "m"
+msgstr "m"
+
+#: src\ControlsDialog.cpp:798
+msgid "Antenna forward"
+msgstr "Antenne forover"
+
+#: src\ControlsDialog.cpp:799 src\ControlsDialog.cpp:807
+msgid "relative to GPS"
+msgstr "relativ til GPS"
+
+#: src\ControlsDialog.cpp:799
+msgid "negative = behind"
+msgstr "negativ = bak"
+
+#: src\ControlsDialog.cpp:806
+msgid "Antenna starboard"
+msgstr "Antenne styrbord"
+
+#: src\ControlsDialog.cpp:807
+msgid "negative = port"
+msgstr "negativ = babord"
+
+#: src\ControlsDialog.cpp:821
+msgid "Side lobe suppression"
+msgstr "Side-lobe undertrykkelse"
+
+#: src\ControlsDialog.cpp:828
+msgid "Main bang size"
+msgstr "Main bang størrelse"
+
+#: src\ControlsDialog.cpp:829
+msgid "pixels"
+msgstr "piksler"
+
+#: src\ControlsDialog.cpp:844 src\ControlsDialog.cpp:1168
+msgid "Guard zones"
+msgstr "Vaktsoner"
+
+#: src\ControlsDialog.cpp:847
+msgid "Zone type"
+msgstr "Sonetype"
+
+#: src\ControlsDialog.cpp:858
+msgid "Inner range"
+msgstr "Indre rekkevidde"
+
+#: src\ControlsDialog.cpp:865
+msgid "Outer range"
+msgstr "Ytre rekkevidde"
+
+#: src\ControlsDialog.cpp:872
+msgid "Start bearing"
+msgstr "Startkurs"
+
+#: src\ControlsDialog.cpp:879
+msgid "End bearing"
+msgstr "Sluttkurs"
+
+#: src\ControlsDialog.cpp:887
+msgid "ARPA On"
+msgstr "ARPA på"
+
+#: src\ControlsDialog.cpp:892
+msgid "Alarm On"
+msgstr "Alarm på"
+
+#: src\ControlsDialog.cpp:909
+msgid "Range"
+msgstr "Rekkevidde"
+
+#: src\ControlsDialog.cpp:915 src\RadarCanvas.cpp:184
+msgid "Gain"
+msgstr "Styrke"
+
+#: src\ControlsDialog.cpp:921
+msgid "Sea clutter"
+msgstr "Sjøfilter"
+
+#: src\ControlsDialog.cpp:927
+msgid "Rain clutter"
+msgstr "Regnfilter"
+
+#: src\ControlsDialog.cpp:933
+msgid "FTC"
+msgstr "FTC"
+
+#: src\ControlsDialog.cpp:949
+msgid "Clear cursor"
+msgstr "Fjern markør"
+
+#: src\ControlsDialog.cpp:953
+msgid "Acquire Target"
+msgstr "Tilegne mål"
+
+#: src\ControlsDialog.cpp:957
+msgid "Delete target"
+msgstr "Slett mål"
+
+#: src\ControlsDialog.cpp:961
+msgid "Delete all targets"
+msgstr "Slett alle mål"
+
+#: src\ControlsDialog.cpp:966 src\ControlsDialog.cpp:1950
+msgid "Place EBL/VRM"
+msgstr "Plasser EBL/VRM"
+
+#: src\ControlsDialog.cpp:996
+msgid "Overlay "
+msgstr "Overlegg "
+
+#: src\ControlsDialog.cpp:1010
+msgid "Info"
+msgstr "Info"
+
+#: src\ControlsDialog.cpp:1027
+msgid "AIS/ARPA on PPI"
+msgstr "AIS/ARPA på PPI"
+
+#: src\ControlsDialog.cpp:1032
+msgid "Doppler"
+msgstr "Doppler"
+
+#: src\ControlsDialog.cpp:1038
+msgid "DopplerAutoTrack"
+msgstr "DopplerAutoSpor"
+
+#: src\ControlsDialog.cpp:1046 src\OptionsDialog.cpp:134
+msgid "Target trails"
+msgstr "Slepestrek etter mål"
+
+#: src\ControlsDialog.cpp:1053
+msgid "Trails motion"
+msgstr "Etterslep bevegelse"
+
+#: src\ControlsDialog.cpp:1059
+msgid "Clear trails"
+msgstr "Tøm slepestrekene"
+
+#: src\ControlsDialog.cpp:1065
+msgid "Orientation"
+msgstr "Retning"
+
+#: src\ControlsDialog.cpp:1071
+msgid "PPI Forward Aft View"
+msgstr "PPI forover aktervisning"
+
+#: src\ControlsDialog.cpp:1077
+msgid "Refresh rate"
+msgstr "Oppdateringsfrekvens"
+
+#: src\ControlsDialog.cpp:1098
+msgid "Timed Standby"
+msgstr "Tidstyrt standby"
+
+#: src\ControlsDialog.cpp:1152
+msgid "Adjust"
+msgstr "Juster"
+
+#: src\ControlsDialog.cpp:1156
+msgid "Advanced"
+msgstr "Avansert"
+
+#: src\ControlsDialog.cpp:1160
+msgid "View"
+msgstr "Vis"
+
+#: src\ControlsDialog.cpp:1164
+msgid "Cursor"
+msgstr "Kursor"
+
+#: src\ControlsDialog.cpp:1172
+msgid "Window"
+msgstr "Vindu"
+
+#: src\ControlsDialog.cpp:1177
+msgid "Timed transmit"
+msgstr "Tidsbestemt sending"
+
+#: src\ControlsDialog.cpp:1182 src\RadarInfo.cpp:1035
+#: include\SoftwareControlSet.h:104
+msgid "Unknown"
+msgstr "Ukjent"
+
+#: src\ControlsDialog.cpp:1658
+msgid "Radar Overlay"
+msgstr "Radar overlegg"
+
+#: src\ControlsDialog.cpp:1663
+msgid "Overlay 1"
+msgstr "Overlegg 1"
+
+#: src\ControlsDialog.cpp:1926
+msgid "Start/Stop radar"
+msgstr "Start/Stopp radar"
+
+#: src\ControlsDialog.cpp:1937
+msgid "Hide/Show PPI"
+msgstr "Skjul/Vis PPI"
+
+#: src\ControlsDialog.cpp:1938
+msgid "Shown"
+msgstr "Vist"
+
+#: src\ControlsDialog.cpp:1938
+msgid "Hidden"
+msgstr "Skjult"
+
+#: src\ControlsDialog.cpp:1941
+msgid "Float/Dock PPI"
+msgstr "Flytende/Festet PPI"
+
+#: src\ControlsDialog.cpp:1942
+msgid "Docked"
+msgstr "Festet"
+
+#: src\ControlsDialog.cpp:1942
+msgid "Floating"
+msgstr "Flytende"
+
+#: src\ControlsDialog.cpp:1947
+msgid "Clear EBL/VRM"
+msgstr "Tøm EBL/VRM"
+
+#: include\ControlsDialog.h:234
+msgid "Radar"
+msgstr "Radar"
+
+#: src\GuardZoneBogey.cpp:95
+msgid "Confirm"
+msgstr "Bekreft"
+
+#: src\GuardZoneBogey.cpp:98
+msgid "Close"
+msgstr "Lukk"
+
+#: src\MessageBox.cpp:144
+msgid "Required OpenCPN option"
+msgstr "Påkrevd OpenCPN valg"
+
+#: src\MessageBox.cpp:149
+msgid "Accelerated Graphics (OpenGL)"
+msgstr "Akselerert grafikk (OpenGL)"
+
+#: src\MessageBox.cpp:155
+msgid "For radar overlay also required"
+msgstr "For radar overlegg trengs også"
+
+#: src\MessageBox.cpp:163
+msgid "Boat position"
+msgstr "Båtposisjon"
+
+#: src\MessageBox.cpp:169
+msgid "and"
+msgstr "og"
+
+#: src\MessageBox.cpp:174
+msgid "True Heading"
+msgstr "Sann kurs"
+
+#: src\MessageBox.cpp:179
+msgid "or"
+msgstr "eller"
+
+#: src\MessageBox.cpp:183 src\MessageBox.cpp:431
+msgid "Magnetic heading"
+msgstr "Magnetisk retning"
+
+#: src\MessageBox.cpp:190 src\MessageBox.cpp:438
+msgid "Variation"
+msgstr "Variasjon"
+
+#: src\MessageBox.cpp:195 src\MessageBox.cpp:200
+msgid "Statistics"
+msgstr "Statistikk"
+
+#: src\MessageBox.cpp:205 src\OptionsDialog.cpp:292
+msgid "Select radar types"
+msgstr "Velg radar typer"
+
+#: src\MessageBox.cpp:210
+msgid "&Hide Radar"
+msgstr "&Skjul Radar"
+
+#: src\MessageBox.cpp:216
+msgid "&Close"
+msgstr "&Lukk"
+
+#: src\MessageBox.cpp:424
+msgid "True heading"
+msgstr "Sann kurs"
+
+#: src\OptionsDialog.cpp:40
+msgid "Radar Display Preferences"
+msgstr "Radar visnings-innstillinger"
+
+#: src\OptionsDialog.cpp:61
+msgid "Mixed NM / short range m"
+msgstr "Blandet NM / kort rekkevidde m"
+
+#: src\OptionsDialog.cpp:62
+msgid "Kilometers"
+msgstr "Kilometer"
+
+#: src\OptionsDialog.cpp:63
+msgid "Nautical Miles"
+msgstr "Nautisk mil"
+
+#: src\OptionsDialog.cpp:66
+msgid "Range Units"
+msgstr "Avstandsenheter"
+
+#: src\OptionsDialog.cpp:74
+msgid "Shading"
+msgstr "Skygge"
+
+#: src\OptionsDialog.cpp:75
+msgid "Outline"
+msgstr "Fremhev"
+
+#: src\OptionsDialog.cpp:76
+msgid "Shading + Outline"
+msgstr "Skygge + Fremhev"
+
+#: src\OptionsDialog.cpp:78
+msgid "Guard Zone Styling"
+msgstr "Vaktsone utseende"
+
+#: src\OptionsDialog.cpp:87
+msgid "Guard Zone Sound"
+msgstr "Vaktsone lyd"
+
+#: src\OptionsDialog.cpp:90
+msgid "Select Alert Sound"
+msgstr "Velg alarmlyd"
+
+#: src\OptionsDialog.cpp:94
+msgid "Test Alert Sound"
+msgstr "Test alarm lyd"
+
+#: src\OptionsDialog.cpp:99
+msgid "Repeat alarm after (sec)"
+msgstr "Gjenta alarm etter (sek)"
+
+#: src\OptionsDialog.cpp:110
+msgid "GPU drawing method"
+msgstr "GPU tegnemetode"
+
+#: src\OptionsDialog.cpp:116
+msgid "Drawing Method"
+msgstr "Tegnemetode"
+
+#: src\OptionsDialog.cpp:122
+msgid "Control Menu Auto Hide"
+msgstr "Kontrollmeny Auto-skjul"
+
+#: src\OptionsDialog.cpp:125
+msgid "Never"
+msgstr "Aldri"
+
+#: src\OptionsDialog.cpp:125
+msgid "10 sec"
+msgstr "10 sek"
+
+#: src\OptionsDialog.cpp:125 include\SoftwareControlSet.h:126
+msgid "30 sec"
+msgstr "30 sek"
+
+#: src\OptionsDialog.cpp:128
+msgid "Auto hide after"
+msgstr "Skjul automatisk etter"
+
+#: src\OptionsDialog.cpp:137
+msgid "Trail start color"
+msgstr "Startfarge for etterslep"
+
+#: src\OptionsDialog.cpp:144
+msgid "Trail end color"
+msgstr "Sluttfarge for etterslep"
+
+#: src\OptionsDialog.cpp:150
+msgid "Doppler Approaching color"
+msgstr "Doppler farge for innkommende"
+
+#: src\OptionsDialog.cpp:158
+msgid "Doppler Receding color"
+msgstr "Doppler farge for vikende"
+
+#: src\OptionsDialog.cpp:168
+msgid "Target colors"
+msgstr "Farger for mål"
+
+#: src\OptionsDialog.cpp:171
+msgid "Weak return color"
+msgstr "Farge for svakt ekko"
+
+#: src\OptionsDialog.cpp:177
+msgid "Intermediate return color"
+msgstr "Farge for middels sterkt ekko"
+
+#: src\OptionsDialog.cpp:184
+msgid "Strong return color"
+msgstr "Farge for sterkt ekko"
+
+#: src\OptionsDialog.cpp:190
+msgid "ARPA edge color"
+msgstr "Farge for ARPA-kant"
+
+#: src\OptionsDialog.cpp:198
+msgid "Radar window colors"
+msgstr "Radar vindusfarger"
+
+#: src\OptionsDialog.cpp:201
+msgid "Background color"
+msgstr "Bakgrunnsfarge"
+
+#: src\OptionsDialog.cpp:209
+msgid "AIS text color"
+msgstr "AIS tekstfarge"
+
+#: src\OptionsDialog.cpp:229
+msgid "Options"
+msgstr "Alternativer"
+
+#: src\OptionsDialog.cpp:233
+msgid "Ignore radar heading"
+msgstr "Ignorer radar-kurs"
+
+#: src\OptionsDialog.cpp:239
+msgid "Pass radar heading to OpenCPN"
+msgstr "Send radarkurs til OpenCPN"
+
+#: src\OptionsDialog.cpp:245
+msgid "Enable COG as heading"
+msgstr "Aktiver COG som kurs"
+
+#: src\OptionsDialog.cpp:251
+msgid "Reverse mouse wheel zoom direction"
+msgstr "Reverser musens hjul zoomretning"
+
+#: src\OptionsDialog.cpp:259
+msgid "Display options"
+msgstr "Visningsalternativer"
+
+#: src\OptionsDialog.cpp:263
+msgid "Show ring at extreme range"
+msgstr "Vis ring ved ekstrem rekkevidde"
+
+#: src\OptionsDialog.cpp:269
+msgid "Show Guard Zone on overlay"
+msgstr "Vis vaktsone på overlegg"
+
+#: src\OptionsDialog.cpp:275
+msgid "Show Target trails on overlay"
+msgstr "Vis slep etter mål på overlegg"
+
+#: src\OptionsDialog.cpp:281
+msgid "Show data on overlay when radar is standby"
+msgstr "Vis data i overlegg når radar er i standby"
+
+#: src\OptionsDialog.cpp:288
+msgid "Radar types"
+msgstr "Radartyper"
+
+#: src\OptionsDialog.cpp:362
+msgid "Select Sound File"
+msgstr "Velg lydfil"
+
+#: src\OptionsDialog.cpp:363
+msgid "WAV files (*.wav)|*.wav|All files (*.*)|*.*"
+msgstr "WAV filer (*.wav)|*.wav|Alle filer (*.*)|*.*"
+
+#: src\RadarCanvas.cpp:119 src\RadarInfo.cpp:235 src\radar_pi.cpp:334
+msgid "Menu"
+msgstr "Meny"
+
+#: src\RadarCanvas.cpp:121
+msgid "Menu "
+msgstr "Meny "
+
+#: src\RadarCanvas.cpp:180
+msgid "Rain"
+msgstr "Regn"
+
+#: src\RadarCanvas.cpp:182
+msgid "Sea"
+msgstr "Hav"
+
+#: src\RadarCanvas.cpp:650
+msgid "AIS Target Name"
+msgstr "Navn på AIS-mål"
+
+#: src\RadarDraw.cpp:55
+msgid "Vertex Array"
+msgstr "Toppunkt matrise"
+
+#: src\RadarDraw.cpp:55
+msgid "Shader"
+msgstr "Skyggelegger"
+
+#: src\RadarInfo.cpp:231
+msgid "Control "
+msgstr "Betjening "
+
+#: src\RadarInfo.cpp:1023 src\RadarInfo.cpp:1026
+msgid "Head Up"
+msgstr "Retning opp"
+
+#: src\RadarInfo.cpp:1023
+msgid "Relative Bearings"
+msgstr "Relative kurser"
+
+#: src\RadarInfo.cpp:1026
+msgid "Stabilized"
+msgstr "Stabilisert"
+
+#: src\RadarInfo.cpp:1029
+msgid "COG Up"
+msgstr "COG opp"
+
+#: src\RadarInfo.cpp:1032
+msgid "North Up"
+msgstr "Nord opp"
+
+#: src\RadarInfo.cpp:1120
+msgid "Zone"
+msgstr "Sone"
+
+#: src\RadarInfo.cpp:1122
+msgid "(Confirmed)"
+msgstr "(Bekreftet)"
+
+#: src\RadarInfo.cpp:1190
+msgid "No radar"
+msgstr "Ingen radar"
+
+#: src\RadarInfo.cpp:1418
+msgid "Uninitialized"
+msgstr "Ikke initialisert"
+
+#: src\RadarInfo.cpp:1494 src\garminhd\GarminHDReceive.cpp:469
+#: src\garminxhd\GarminxHDReceive.cpp:506 src\navico\NavicoReceive.cpp:1101
+#: src\raymarine\RME120Receive.cpp:536
+msgid "Standby"
+msgstr "Ventemodus"
+
+#: src\RadarInfo.cpp:1497 src\raymarine\RME120Receive.cpp:541
+msgid "Warming up"
+msgstr "Varmer opp"
+
+#: src\RadarInfo.cpp:1500
+msgid "Timed idle"
+msgstr "Tidstyrt tomgang"
+
+#: src\RadarInfo.cpp:1503 src\garminhd\GarminHDReceive.cpp:475
+#: src\garminxhd\GarminxHDReceive.cpp:512
+msgid "Spinning up"
+msgstr "Spinner opp"
+
+#: src\RadarInfo.cpp:1506
+msgid "Transmitting"
+msgstr "Sender"
+
+#: src\RadarInfo.cpp:1509
+msgid "for targets"
+msgstr "for mål"
+
+#: src\RadarInfo.cpp:1514 src\garminxhd\GarminxHDReceive.cpp:523
+msgid "Stopping"
+msgstr "Stopper"
+
+#: src\RadarInfo.cpp:1517 src\garminxhd\GarminxHDReceive.cpp:533
+msgid "Starting"
+msgstr "Starter"
+
+#: src\RadarInfo.cpp:1520 src\garminxhd\GarminxHDReceive.cpp:528
+msgid "Spinning down"
+msgstr "Spinner ned"
+
+#: src\RadarInfo.cpp:1524
+#, c-format
+msgid "for %ds"
+msgstr "for %ds"
+
+#: src\RadarPanel.cpp:40 src\radar_pi.cpp:1137 src\radar_pi.cpp:1160
+msgid "RADAR"
+msgstr "RADAR"
+
+#: src\RadarPanel.cpp:175
+msgid "OpenGL mode required"
+msgstr "OpenGL modus er påkrevd"
+
+#: src\RadarPanel.cpp:186
+msgid "Unable to create OpenGL canvas"
+msgstr "Kunne ikke opprette OpenGL lerret"
+
+#: src\radar_pi.cpp:298
+msgid "Radar plugin with support for multiple radars"
+msgstr "Radar utvidelse med støtte for flere radarer"
+
+#: src\radar_pi.cpp:326
+msgid "Show radar"
+msgstr "Vis radar"
+
+#: src\radar_pi.cpp:327
+msgid "Hide radar"
+msgstr "Skjul radar"
+
+#: src\radar_pi.cpp:329
+msgid "Acquire radar target"
+msgstr "Tilegne radarmål"
+
+#: src\radar_pi.cpp:330
+msgid "Delete radar target"
+msgstr "Slett radarmål"
+
+#: src\radar_pi.cpp:331
+msgid "Delete all radar targets"
+msgstr "Slett alle radarmål"
+
+#: src\radar_pi.cpp:481
+msgid "Radar PlugIn"
+msgstr "Radar utvidelse"
+
+#: src\radar_pi.cpp:484
+msgid "Radar PlugIn with support for Garmin, Raymarine and Navico radars"
+msgstr "Radar utvidelse med støtte for Garmin, Raymarine og Navico radarer"
+
+#: src\radar_pi.cpp:861
+msgid " Zone"
+msgstr " Sone"
+
+#: src\radar_pi.cpp:905
+msgid "Next alarm in"
+msgstr "Neste alarm om"
+
+#: src\radar_pi.cpp:1130
+msgid "COG"
+msgstr "COG"
+
+#: src\radar_pi.cpp:1134
+msgid "HDT"
+msgstr "HDT"
+
+#: src\radar_pi.cpp:1154
+msgid "HDM"
+msgstr "HDM"
+
+#: src\radar_pi.cpp:1718
+msgid "GPS"
+msgstr "GPS"
+
+#: src\radar_pi.cpp:1880
+msgid "WMM"
+msgstr "WMM"
+
+#: src\radar_pi.cpp:2029
+msgid "NMEA"
+msgstr "NMEA"
+
+#: src\SelectDialog.cpp:40
+msgid "Radar Selection"
+msgstr "Radar utvalg"
+
+#: src\SelectDialog.cpp:54
+#, c-format
+msgid "Select (max) %d radar scanner types"
+msgstr "Velg (maks) %d radar skanner typer"
+
+#: src\socketutil.cpp:180
+msgid "Cannot create UDP socket"
+msgstr "Kan ikke opprette UDP-socket"
+
+#: src\socketutil.cpp:184
+msgid "Cannot set reuse address option on socket"
+msgstr "Kan ikke bruke adressevalg for socket på nytt"
+
+#: src\socketutil.cpp:189
+msgid "Cannot bind UDP socket to port "
+msgstr "Kan ikke tilknytte socket til port "
+
+#: src\socketutil.cpp:194
+msgid "Invalid IP address for UDP multicast"
+msgstr "Ugyldig IP-adresse for UDP-multicast"
+
+#: include\SoftwareControlSet.h:81
+msgid "min"
+msgstr "min"
+
+#: include\SoftwareControlSet.h:104
+msgid "Head up"
+msgstr "Retning opp"
+
+#: include\SoftwareControlSet.h:104
+msgid "Head up (Stabilized)"
+msgstr "Kurs opp (Stabilisert)"
+
+#: include\SoftwareControlSet.h:104
+msgid "North up"
+msgstr "Nord opp"
+
+#: include\SoftwareControlSet.h:104
+msgid "Course up"
+msgstr "Kurs opp"
+
+#: include\SoftwareControlSet.h:117
+msgid "Dragged View"
+msgstr "Forskyvd visning"
+
+#: include\SoftwareControlSet.h:117
+msgid "Center View"
+msgstr "Sentrert visning"
+
+#: include\SoftwareControlSet.h:117
+msgid "Forward View"
+msgstr "Se forover"
+
+#: include\SoftwareControlSet.h:117
+msgid "Aft View"
+msgstr "Se akterover"
+
+#: include\SoftwareControlSet.h:126
+msgid "15 sec"
+msgstr "15 sek"
+
+#: include\SoftwareControlSet.h:126
+msgid "1 min"
+msgstr "1 min"
+
+#: include\SoftwareControlSet.h:126
+msgid "3 min"
+msgstr "3 min"
+
+#: include\SoftwareControlSet.h:126
+msgid "5 min"
+msgstr "5 min"
+
+#: include\SoftwareControlSet.h:126
+msgid "10 min"
+msgstr "10 min"
+
+#: include\SoftwareControlSet.h:126
+msgid "Continuous"
+msgstr "Kontinuerlig"
+
+#: include\SoftwareControlSet.h:130
+msgid "Relative"
+msgstr "Relativ"
+
+#: include\SoftwareControlSet.h:130
+msgid "True"
+msgstr "Sann"
+
+#: include\SoftwareControlSet.h:136 include\SoftwareControlSet.h:140
+msgid "On"
+msgstr "På"
+
+#: include\SoftwareControlSet.h:154
+msgid "* 0.1 %"
+msgstr "* 0.1 %"
+
+#: src\emulator\EmulatorReceive.cpp:206
+msgid "OK"
+msgstr "OK"
+
+#: include\garminhd\GarminHDControlSet.h:36
+#: include\garminxhd\GarminxHDControlSet.h:36
+#: include\navico\NavicoControlSet.h:56 include\navico\NavicoControlSet.h:60
+msgid "Low"
+msgstr "Lav"
+
+#: include\garminhd\GarminHDControlSet.h:36
+#: include\garminxhd\GarminxHDControlSet.h:36
+#: include\navico\NavicoControlSet.h:56 include\navico\NavicoControlSet.h:60
+msgid "High"
+msgstr "Høy"
+
+#: include\garminhd\GarminHDControlSet.h:41
+#: include\garminxhd\GarminxHDControlSet.h:41
+msgid "Calm"
+msgstr "Stille"
+
+#: include\garminhd\GarminHDControlSet.h:41
+#: include\garminxhd\GarminxHDControlSet.h:41
+#: include\navico\NavicoControlSet.h:56
+msgid "Medium"
+msgstr "Middels"
+
+#: include\garminhd\GarminHDControlSet.h:41
+#: include\garminxhd\GarminxHDControlSet.h:41
+msgid "Rough"
+msgstr "Grov"
+
+#: include\garminhd\GarminHDControlSet.h:46
+#: include\garminxhd\GarminxHDControlSet.h:46
+#: include\navico\NavicoControlSet.h:64
+msgid "Slow"
+msgstr "Sakte"
+
+#: include\garminhd\GarminHDControlSet.h:46
+#: include\garminxhd\GarminxHDControlSet.h:46
+#: include\navico\NavicoControlSet.h:64
+msgid "Fast"
+msgstr "Rask"
+
+#: src\garminhd\GarminHDReceive.cpp:212 src\garminxhd\GarminxHDReceive.cpp:185
+msgid "No interface found"
+msgstr "Ingen grensesnitt funnet"
+
+#: src\garminhd\GarminHDReceive.cpp:213 src\garminxhd\GarminxHDReceive.cpp:186
+msgid "Interface must match"
+msgstr "Grensesnitt må samsvare"
+
+#: src\garminhd\GarminHDReceive.cpp:239 src\garminxhd\GarminxHDReceive.cpp:212
+#: src\navico\NavicoReceive.cpp:487 src\raymarine\RME120Receive.cpp:139
+msgid "Scanning interface"
+msgstr "Skanner brukergrensesnitt"
+
+#: src\garminhd\GarminHDReceive.cpp:464 src\garminxhd\GarminxHDReceive.cpp:501
+msgid "Warmup"
+msgstr "Oppvarming"
+
+#: src\garminhd\GarminHDReceive.cpp:480 src\garminxhd\GarminxHDReceive.cpp:517
+#: src\navico\NavicoReceive.cpp:1106 src\raymarine\RME120Receive.cpp:546
+msgid "Transmit"
+msgstr "Send"
+
+#: src\garminhd\GarminHDReceive.cpp:483 src\garminxhd\GarminxHDReceive.cpp:537
+#: src\navico\NavicoReceive.cpp:1115 src\raymarine\RME120Receive.cpp:551
+msgid "Unknown status"
+msgstr "Ukjent status"
+
+#: include\garminhd\GarminHDReceive.h:58 include\garminxhd\GarminxHDReceive.h:57
+#: include\navico\NavicoReceive.h:68 include\raymarine\RME120Receive.h:66
+msgid "Initializing"
+msgstr "Klargjør"
+
+#: include\navico\NavicoControlSet.h:68 include\navico\NavicoControlSet.h:72
+msgid "Harbour"
+msgstr "Havn"
+
+#: include\navico\NavicoControlSet.h:68 include\navico\NavicoControlSet.h:72
+msgid "Offshore"
+msgstr "Offshore"
+
+#: include\navico\NavicoControlSet.h:72
+msgid "Weather"
+msgstr "Vær"
+
+#: include\navico\NavicoControlSet.h:72
+msgid "Bird"
+msgstr "Fugl"
+
+#: include\navico\NavicoControlSet.h:76
+msgid "Normal"
+msgstr "Normal"
+
+#: include\navico\NavicoControlSet.h:76
+msgid "Approaching"
+msgstr "Ankommer"
+
+#: src\navico\NavicoReceive.cpp:475 src\navico\NavicoReceive.cpp:1122
+#: src\raymarine\RME120Receive.cpp:129
+msgid "Serial #"
+msgstr "Seriell #"
+
+#: src\navico\NavicoReceive.cpp:1111
+msgid "Waking up"
+msgstr "Våkner opp"
+
+#: src\raymarine\RME120Receive.cpp:558
+msgid "IF-Serial #"
+msgstr "IF-Seriell #"
+

@@ -1,0 +1,11 @@
+build
+build-*
+rel-*
+!build-deps
+po/*.pot
+.DS_Store
+*humbs.db
+cache
+plugins
+opencpn-libs
+rel-*
